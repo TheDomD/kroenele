@@ -57,7 +57,7 @@ a:hover {
   width: 400px;
   height: 200px;
   margin: 0 auto;
-  background: url(/img/kronele-logo.png) no-repeat center center/cover;
+  background: url(img/kronele-logo.png) no-repeat center center/cover;
 }
 
 .header-container .center-content .main-nav ul li {
